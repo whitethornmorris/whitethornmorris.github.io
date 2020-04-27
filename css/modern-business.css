@@ -1,0 +1,89 @@
+/*!
+ * Start Bootstrap - Modern Business (https://startbootstrap.com/template-overviews/modern-business)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
+ */
+
+.navbar { 
+  font-family:Georgia, serif !important;
+  font-weight: normal; 
+}
+
+body {
+  padding-top: 56px;
+  font-size: 18px;
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+h1 {
+  font-size: 45px;
+  /*font-weight: bold;*/
+}
+
+h2 {
+  font-size: 35px;
+}
+
+h1, h2, h3, h4 {
+  font-family: Georgia, serif;
+}
+
+a, a:link, a:hover, a:visited, a:active {
+	color: #b40c15;
+	/*font-weight: bold;*/
+	/*text-decoration: underline;*/
+}
+
+
+.carousel-item {
+  height: 65vh;
+  min-height: 300px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.portfolio-item {
+  margin-bottom: 30px;
+}
+
+.title-blue {
+	color: #363b7a;
+}
+
+.title-font {
+	font-family: verdana;
+}
+
+/*Change button colour*/
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #c2c2c2 !important;
+    border-color: #a1a1a1 !important;
+}
+
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+
+/* Modify the backgorund color */ 
+/*#334d73*/
+.navbar-custom { 
+    background-color: #363b7a;
+}
