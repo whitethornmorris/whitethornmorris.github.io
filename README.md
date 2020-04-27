@@ -11,10 +11,9 @@ The site was made using the [Modern Business](http://startbootstrap.com/template
 * About page - done
 * Diary page - done
 * Contact page - done
-* Gallery page - layout done but photos need updating
-    * Separate gallery pages for particular events or each year?
-    * Add gallery-3 page
-* Blog - mostly done
+* Gallery page - layout done, more photos can be added.
+    * Add new gallery pages for particular events or for each year (when we have enough photos)
+* Blog - done, but more posts can be added.
 * _Other pages - not done_
     * _Optional pages: FAQ, 404 error_
 
