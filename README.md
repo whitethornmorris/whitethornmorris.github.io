@@ -26,4 +26,4 @@ The site was made using the [Modern Business](http://startbootstrap.com/template
 
 ## Copyright
 
-All content (including photos) is copyright (c) Whitethorn Morris 2020, and may not be reproduced without permission.
+All content (including photos) is copyright (c) Whitethorn Morris 2021, and may not be reproduced without permission.
