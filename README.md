@@ -22,8 +22,8 @@ The site was made using the [Modern Business](http://startbootstrap.com/template
 
 * Blog posts: non-collapsible navbar is slightly taller than the normal navbar
 * Footer: on extra-small screens the footer text extends over 2 lines
-    * To do: change footer text for xs screens to '(c) Whitethorn Morris 2020'
+    * To do: change footer text for xs screens to '(c) Whitethorn Morris 2023'
 
 ## Copyright
 
-All content (including photos) is copyright (c) Whitethorn Morris 2021, and may not be reproduced without permission.
+All content (including photos) is copyright (c) Whitethorn Morris 2023, and may not be reproduced without permission.
